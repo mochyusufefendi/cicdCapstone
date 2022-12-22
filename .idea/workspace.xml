@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0592ec4f-0e2d-45af-81a6-c3d763e44b9c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/src/main/java/com/example/app/page/addfamilymembersPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/src/main/java/com/example/app/page/addfamilymembersPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/src/test/java/com/example/steps/addfamilymembersStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/src/test/java/com/example/steps/addfamilymembersStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/src/test/resources/features/AddFamilyMembers.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/src/test/resources/features/AddFamilyMembers.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/classes/com/example/app/page/addfamilymembersPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/classes/com/example/app/page/addfamilymembersPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/failsafe-reports/TEST-com.example.acceptancetests.AcceptanceTestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/failsafe-reports/TEST-com.example.acceptancetests.AcceptanceTestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/failsafe-reports/com.example.acceptancetests.AcceptanceTestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/failsafe-reports/com.example.acceptancetests.AcceptanceTestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/mobile-test-capstone-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/mobile-test-capstone-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0066b1e5694d637ba9be8789b687b65b0e4cc1fa65536fe7384dd26e4c9489c6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0066b1e5694d637ba9be8789b687b65b0e4cc1fa65536fe7384dd26e4c9489c6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0066b1e5694d637ba9be8789b687b65b0e4cc1fa65536fe7384dd26e4c9489c6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0066b1e5694d637ba9be8789b687b65b0e4cc1fa65536fe7384dd26e4c9489c6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/03d6fe5bb8398bcd160fd45664caf4d28c9063593befca4892b956fe2da8b23e.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/03d6fe5bb8398bcd160fd45664caf4d28c9063593befca4892b956fe2da8b23e.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0514b7a1c815acff44820906545f07a8897c277a83b21e39a1e5ae5e8f56e66b.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0514b7a1c815acff44820906545f07a8897c277a83b21e39a1e5ae5e8f56e66b.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/081d9128312cce9ef9f4718a1f52f1380415d9facd2fc878488a8b5de98cd80f.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/081d9128312cce9ef9f4718a1f52f1380415d9facd2fc878488a8b5de98cd80f.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0a9e770f84b5167aada74091f7e73eeb820e77483d974675fbe676837456a3f5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0a9e770f84b5167aada74091f7e73eeb820e77483d974675fbe676837456a3f5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0a9e770f84b5167aada74091f7e73eeb820e77483d974675fbe676837456a3f5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0a9e770f84b5167aada74091f7e73eeb820e77483d974675fbe676837456a3f5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0e076557581662d6be853ec3fb427b34832be0a2fccdaa5decf694c09de79224.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/0e076557581662d6be853ec3fb427b34832be0a2fccdaa5decf694c09de79224.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/1b449978a24286c06cf559b215b9fcf9cb54b70c8dd19381be5b4b6d74e36dd2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/1b449978a24286c06cf559b215b9fcf9cb54b70c8dd19381be5b4b6d74e36dd2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/22a92488e2bf162eb58f3f453b650dde0bab75a2b31234832f024f39b1c5f192.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/233fb6909458a677df8f9ba266532ec4a1a7e445192c4f73cbd4ecf76cb918c5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/233fb6909458a677df8f9ba266532ec4a1a7e445192c4f73cbd4ecf76cb918c5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/233fb6909458a677df8f9ba266532ec4a1a7e445192c4f73cbd4ecf76cb918c5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/233fb6909458a677df8f9ba266532ec4a1a7e445192c4f73cbd4ecf76cb918c5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/2b590079883756dbd01d29a5f8dbdb5d94d630c1d390ca3ac65101610c9cbf8f.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/2b590079883756dbd01d29a5f8dbdb5d94d630c1d390ca3ac65101610c9cbf8f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/2cd3974b083ff31ec6ff1a111fc5d03cb6e6062fd1d5d7ae6ca2a7a7d3ba8981.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/2cd3974b083ff31ec6ff1a111fc5d03cb6e6062fd1d5d7ae6ca2a7a7d3ba8981.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/2cd3974b083ff31ec6ff1a111fc5d03cb6e6062fd1d5d7ae6ca2a7a7d3ba8981.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/2cd3974b083ff31ec6ff1a111fc5d03cb6e6062fd1d5d7ae6ca2a7a7d3ba8981.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/4a94b325fe9649372a562ab0b2a0efc61e0ad3bbb18ca678880f6a19a5dbda4a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/4a94b325fe9649372a562ab0b2a0efc61e0ad3bbb18ca678880f6a19a5dbda4a.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/4a94b325fe9649372a562ab0b2a0efc61e0ad3bbb18ca678880f6a19a5dbda4a.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/4a94b325fe9649372a562ab0b2a0efc61e0ad3bbb18ca678880f6a19a5dbda4a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/5b75227201347bd2c787f74d57f9762238f3666059d70277d567e0583e80304d.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/5b75227201347bd2c787f74d57f9762238f3666059d70277d567e0583e80304d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/5e80392f0a94e14df6817102099182a2474aa838e2d95504cda10533e1f14ea6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/5e80392f0a94e14df6817102099182a2474aa838e2d95504cda10533e1f14ea6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/6792a0cda036a4a86ae151a8309c75f7a4c73812ce8fe299e2f6471f6bdb4df2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/6792a0cda036a4a86ae151a8309c75f7a4c73812ce8fe299e2f6471f6bdb4df2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/736b1aa347ad0cc02b60562823f1ec2654d77d4dedca53e5400dc635edd55b88.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/736b1aa347ad0cc02b60562823f1ec2654d77d4dedca53e5400dc635edd55b88.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/779edb8703a16671218a4f606fe2d8888c0d90f61e2c4aebf76bf173f644237d.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/779edb8703a16671218a4f606fe2d8888c0d90f61e2c4aebf76bf173f644237d.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/779edb8703a16671218a4f606fe2d8888c0d90f61e2c4aebf76bf173f644237d.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/779edb8703a16671218a4f606fe2d8888c0d90f61e2c4aebf76bf173f644237d.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/7d47337d8163e9da3747301dd1a9c1ca1ff80cca8b35860351b9aa67d0733b5b.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/7d47337d8163e9da3747301dd1a9c1ca1ff80cca8b35860351b9aa67d0733b5b.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/9cd69dc795e8bb7b7c1eb5a17c08107ebcd04b0d42dc7c5ef15e3f068ef75813.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/9cd69dc795e8bb7b7c1eb5a17c08107ebcd04b0d42dc7c5ef15e3f068ef75813.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/9e9b48f5945159521b313e8ad50e54bfcf925b28e6000623e8b6f18ff169db91.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/9e9b48f5945159521b313e8ad50e54bfcf925b28e6000623e8b6f18ff169db91.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/9e9b48f5945159521b313e8ad50e54bfcf925b28e6000623e8b6f18ff169db91.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/9e9b48f5945159521b313e8ad50e54bfcf925b28e6000623e8b6f18ff169db91.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/SERENITY-JUNIT-c75634f4dac9cde0fe1a502bd8b3905ead6889306a05a666dd85e96d1cb76c86.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/SERENITY-JUNIT-c75634f4dac9cde0fe1a502bd8b3905ead6889306a05a666dd85e96d1cb76c86.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/SERENITY-JUNIT-e33872ffcf1339da2909e9b17dddd3215e049a1a25e029cbcbd4d7fd97ae942f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/SERENITY-JUNIT-e33872ffcf1339da2909e9b17dddd3215e049a1a25e029cbcbd4d7fd97ae942f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b0b6c0e774ef0d1123d984c5f7f889d7c08a90e2768557f4dd3fa0d14877e4d7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b0b6c0e774ef0d1123d984c5f7f889d7c08a90e2768557f4dd3fa0d14877e4d7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b0e58dd8590c1534142d4c8bb080434ecacd75dbb7354189eaeeb24955f63435.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b0e58dd8590c1534142d4c8bb080434ecacd75dbb7354189eaeeb24955f63435.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b2e36ab748952ec1a7e302f4cc986431a72b05e64193f058c5121a8be567859a.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b2e36ab748952ec1a7e302f4cc986431a72b05e64193f058c5121a8be567859a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b2e36ab748952ec1a7e302f4cc986431a72b05e64193f058c5121a8be567859a.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b2e36ab748952ec1a7e302f4cc986431a72b05e64193f058c5121a8be567859a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b5a51fc64ff8ca83de06a356b9bd0e5c8cbde54af2b1e8e384a9228fd9a93a6f.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b5a51fc64ff8ca83de06a356b9bd0e5c8cbde54af2b1e8e384a9228fd9a93a6f.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b5a51fc64ff8ca83de06a356b9bd0e5c8cbde54af2b1e8e384a9228fd9a93a6f.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b5a51fc64ff8ca83de06a356b9bd0e5c8cbde54af2b1e8e384a9228fd9a93a6f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/build-info.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/c6b1767f890ff41d42f6233e653ad2fe82e4a479ea09969ef1caa371ade95759.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/c6b1767f890ff41d42f6233e653ad2fe82e4a479ea09969ef1caa371ade95759.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/c75634f4dac9cde0fe1a502bd8b3905ead6889306a05a666dd85e96d1cb76c86.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/c75634f4dac9cde0fe1a502bd8b3905ead6889306a05a666dd85e96d1cb76c86.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/c75634f4dac9cde0fe1a502bd8b3905ead6889306a05a666dd85e96d1cb76c86.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/c75634f4dac9cde0fe1a502bd8b3905ead6889306a05a666dd85e96d1cb76c86.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/ca0674293d2f280f6f61c44b41fc9ba7d3f053286fac4c59615b4511fee61f9f.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/ca0674293d2f280f6f61c44b41fc9ba7d3f053286fac4c59615b4511fee61f9f.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/d3d6c47cef8149130b1665e852c7d1e4cdac6b715264dac91417b64d66f4ae72.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/d3d6c47cef8149130b1665e852c7d1e4cdac6b715264dac91417b64d66f4ae72.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/e33872ffcf1339da2909e9b17dddd3215e049a1a25e029cbcbd4d7fd97ae942f.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/e33872ffcf1339da2909e9b17dddd3215e049a1a25e029cbcbd4d7fd97ae942f.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/e33872ffcf1339da2909e9b17dddd3215e049a1a25e029cbcbd4d7fd97ae942f.json" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/e33872ffcf1339da2909e9b17dddd3215e049a1a25e029cbcbd4d7fd97ae942f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/e87948a8a2abfbbd53193af1a50511f967d6cb9150ce3387357bbc1b954d95fe.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/e87948a8a2abfbbd53193af1a50511f967d6cb9150ce3387357bbc1b954d95fe.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/e87948a8a2abfbbd53193af1a50511f967d6cb9150ce3387357bbc1b954d95fe.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/e87948a8a2abfbbd53193af1a50511f967d6cb9150ce3387357bbc1b954d95fe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/eb0a1863df454eedaa2711cb1700585a9cd1ce5b20babf31e0e2e3b229106236.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/eb0a1863df454eedaa2711cb1700585a9cd1ce5b20babf31e0e2e3b229106236.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/eb0a1863df454eedaa2711cb1700585a9cd1ce5b20babf31e0e2e3b229106236.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/eb0a1863df454eedaa2711cb1700585a9cd1ce5b20babf31e0e2e3b229106236.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/ee69cb0c82cc8774f7b611fd3137780bd9f067236b2d397d0e264ebc1874bc20.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/ee69cb0c82cc8774f7b611fd3137780bd9f067236b2d397d0e264ebc1874bc20.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/fe678e21e43ddafa4f07fc5a3fad1564db9b356db1859dd7aca2712b738a1d5e.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/fe678e21e43ddafa4f07fc5a3fad1564db9b356db1859dd7aca2712b738a1d5e.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/site/serenity/summary.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/test-classes/com/example/steps/addfamilymembersStep.class" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/test-classes/com/example/steps/addfamilymembersStep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mobile-test-capstone/target/test-classes/features/AddFamilyMembers.feature" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile-test-capstone/target/test-classes/features/AddFamilyMembers.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-testing-capstone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-testing-capstone/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-testing-capstone/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web-testing-capstone/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IlJUWmOZboq70pmnJK4grqpJ4g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/API-testing-capstone"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="starter.stepdefinitions" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0592ec4f-0e2d-45af-81a6-c3d763e44b9c" name="Changes" comment="" />
+      <created>1670750256287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670750256287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
